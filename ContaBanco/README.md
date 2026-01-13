@@ -1,4 +1,4 @@
-# Conta Banco - Desafio DIO
+# Conta Bancária - Desafio DIO
 
 Projeto desenvolvido como parte do desafio da Formação Java Developer na plataforma DIO (Digital Innovation One).
 
